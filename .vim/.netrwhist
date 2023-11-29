@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/home/schulice/.config/fish/conf.d'
+let g:netrw_dirhist_1='/home/schulice/.config/fish'
+let g:netrw_dirhist_0='/home/schulice/.config/fish/conf.d'
+let g:netrw_dirhist_9='/home/schulice/.config/fish'
+let g:netrw_dirhist_8='/home/schulice/.config/fish/completions'
+let g:netrw_dirhist_7='/home/schulice/.config/fish'
+let g:netrw_dirhist_6='/usr/share/fish/tools/web_config/themes'
+let g:netrw_dirhist_5='/usr/share/fish/tools/web_config'
+let g:netrw_dirhist_4='/usr/share/fish/tools/web_config/themes'
+let g:netrw_dirhist_3='/usr/share/fish/tools/web_config'
